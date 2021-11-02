@@ -13,6 +13,7 @@ Our project idea was to develop an easy-to-use drink recipe application utilizin
 WireFrame Links:
 
 Index page: https://wireframe.cc/4acTyV
+![076CB07E-345C-4F09-A3DC-2E552B405997_1_201_a](https://user-images.githubusercontent.com/8105789/139915835-a4530846-2f63-4dca-a474-67deb9690f94.jpeg)
 
 Search Results: https://wireframe.cc/vuOlKz
 
